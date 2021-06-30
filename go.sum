@@ -1,2 +1,8 @@
 github.com/go-sql-driver/mysql v1.6.0 h1:BCTh4TKNUYmOmMUcQ3IipzF5prigylS7XXjEkfCHuOE=
 github.com/go-sql-driver/mysql v1.6.0/go.mod h1:DCzpHaOWr8IXmIStZouvnhqoel9Qv2LBy8hT2VhHyBg=
+github.com/marcelosilva-dev/area v0.0.0-20210627032153-c3f6c907e433 h1:4pbXwhuVz5rajMmlouoJkr3FiQueet+Ox59HIgrHKBk=
+github.com/marcelosilva-dev/area v0.0.0-20210627032153-c3f6c907e433/go.mod h1:/2m6uG+YJl0mRVsMP5IW9NORjvFQ9XFNZe9mq0U1iec=
+github.com/marcelosilva-dev/funcTitulo v0.0.0-20210628045640-3a222647b259 h1:zoBs+uWGy9peIzaMvjAfbHTdIYHDM3EqEkPYb83tm+c=
+github.com/marcelosilva-dev/funcTitulo v0.0.0-20210628045640-3a222647b259/go.mod h1:GVsKuicZwlXutz6ZBNJECQV67qQmnKelnE83YgkBNVM=
+github.com/marcelosilva-dev/html v0.0.0-20210628043853-2dfa82c1a40e h1:YbZAi6VUemVmAXxxG1QNY7a80i89WPgec+UnrqFuirg=
+github.com/marcelosilva-dev/html v0.0.0-20210628043853-2dfa82c1a40e/go.mod h1:hp7qTcoVmT4028y7R8GKhOibByTsLhUfX5OYM2Gz8Ts=

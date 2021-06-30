@@ -1,8 +1,13 @@
 package main
 
-import "github.com/cod3rcursos/goarea"
-import "fmt"
+import (
+	"curso-go-coder/pacote/usandolib/abc"
+	"fmt"
+
+	"github.com/marcelosilva-dev/area"
+)
 
 func main() {
-	fmt.Println(goarea.Circ(4.0))
+	fmt.Println(area.Circ(4.0))
+	abc.Epa()
 }

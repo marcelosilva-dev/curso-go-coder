@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/cod3rcursos/area"
+	"github.com/marcelosilva-dev/area"
 )
 
 func main() {
